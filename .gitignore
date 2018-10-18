@@ -27,7 +27,6 @@ user/themes/*
 !user/themes/.*
 user/config/security.yaml
 
-
 # Created by https://www.gitignore.io/api/vim,macos,emacs,windows,webstorm,phpstorm
 
 ### Emacs ###

@@ -1,0 +1,10 @@
+enabled: true
+default_background_image:
+  user/themes/lab/images/IMG_5079.JPG:
+    name: IMG_5079.JPG
+    type: image/jpeg
+    size: 1365307
+    path: user/themes/lab/images/IMG_5079.JPG
+blog_thumbnail_width: 600
+blog_thumbnail_height: 450
+left_footer: "©️ Media & Design Group<br>\r\n[Department of Social Informatics / 社会情報学専攻](https://www.si.i.nagoya-u.ac.jp/index.html)<br>\r\n[Graduate School of Informatics / 大学院情報学研究科](https://www.i.nagoya-u.ac.jp/graduate-school-of-informatics/)<br>\r\n[Nagoya University / 名古屋大学](http://www.nagoya-u.ac.jp/)<br>\r\n<br>\r\n<br>\r\n<font size=\"1\" class=\"footer-license\">Template by [grav-themplate-lab](https://github.com/shinyaoguri/grav-theme-lab)<br>\r\nIcons made by <a href=\"https://www.flaticon.com/authors/zlatko-najdenovski\" title=\"Zlatko Najdenovski\">Zlatko Najdenovski</a> from <a href=\"https://www.flaticon.com/\" title=\"Flaticon\">www.flaticon.com</a> is licensed by <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\" target=\"_blank\">CC 3.0 BY</a><br>\r\nIcons made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"https://www.flaticon.com/\" title=\"Flaticon\">www.flaticon.com</a> is licensed by <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\" target=\"_blank\">CC 3.0 BY</a></font>"

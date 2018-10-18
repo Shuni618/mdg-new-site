@@ -1,0 +1,15 @@
+title: 'Media&Design Group'
+default_lang: ja
+author:
+  name: 'mdg infomation staff'
+  email: nagoya.mdg.info@gmail.com
+taxonomies:
+  - category
+  - tag
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Home / ホーム'
 menu: Home
 isHome: true
 content:

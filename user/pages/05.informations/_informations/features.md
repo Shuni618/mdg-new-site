@@ -4,6 +4,11 @@ media_order: 'agenda.png,mortarboard (1).png,open-magazine.png,start.png,present
 menu: Informations
 features:
     -
+        icon: start.png
+        title: Projects
+        description: 研究プロジェクト
+        link_url: projects
+    -
         icon: presentation.png
         title: Achievements
         description: 研究発表
@@ -23,11 +28,6 @@ features:
         title: 'Doctoral Thesis'
         description: 博士論文
         link_url: doctoral-thesis
-    -
-        icon: start.png
-        title: Projects
-        description: 研究プロジェクト
-        link_url: projects
     -
         icon: leaf.png
         title: Life

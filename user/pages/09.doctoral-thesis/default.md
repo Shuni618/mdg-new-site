@@ -1,5 +1,5 @@
 ---
-title: 'Doctoral Thesis'
+title: 'Doctoral Thesis / 博士論文'
 ---
 
 ## 2011

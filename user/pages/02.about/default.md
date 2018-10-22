@@ -1,5 +1,5 @@
 ---
-title: About
+title: 'About / 概要'
 menu: About
 ---
 
@@ -11,22 +11,43 @@ We, the Media & the Design Group, consider our future society, brought about by 
 The Media & Design Group, which consists of the laboratories of Professors Yasuda, Endo, Kato and Urata, conducts research on electronic environments and life styles for future human society, based on visual expression techniques.
 
 
-Media & Design Group は，電子メディアがもたらす未来社会について考察するとともに，これからの人間にとっての電子的な環境やライフスタイルを，ビジュアルな表現を用いてデザインしていくことを目的とした研究グループです．現在，安田・遠藤・浦田の3研究室から構成されており， 電子メディアの発達を踏まえて，電子メディアがもたらす未来社会について考察するとともに， これからの人間社会にとっての電子的な環境やライフスタイルを，ビジュアルな表現を用いてデザインしていくことを目的としています．
+Media & Design Group は安田・遠藤・浦田の3研究室から構成されており， 電子メディアの発達を踏まえて，電子メディアがもたらす未来社会について考察するとともに， これからの人間社会にとっての電子的な環境やライフスタイルを，ビジュアルな表現を用いてデザインしていくことを目的としています．
 
 ---
 
 # Research Theme / 研究テーマ
+さらに詳細な研究テーマや卒業研究テーマについては[Informations](/informations)からご確認ください．
+
 **Tourism & Community / 観光とコミュニティ**
 
 **e-Learning / 情報技術と教育**
 
 **Social Data Science & Analyze / データ分析**
 
+
+
+---
+
+# Group Policies / 研究室の方針
+
+---
+
+# Message from Professor / 教員からのメッセージ
+* **安田孝美 教授**
+> あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。
+
+* **遠藤守 准教授**
+> あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。
+
+* **浦田真由 講師**
+> あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。
+
 ---
 
 # After Graduation / 進路
 **After Doctoral Course / 博士課程**
 
+名古屋大学，
 名古屋工業大学，
 愛知教育大学，
 ATRメディア情報科学研究所，
@@ -45,11 +66,14 @@ ATRメディア情報科学研究所，
 **After Master's Course / 修士過程**
 
 NTTデータ，
+NTTドコモ，
+NTT西日本，
+NTTドコモ東海，
+リンクアンドモチベーション，
+名古屋鉄道
 アクセンチュア，
 イオン，
 NEC，
-NTTドコモ，
-NTTドコモ東海，
 JMR生活総合研究所，
 スナップショット，
 中央発條，
@@ -59,10 +83,12 @@ JMR生活総合研究所，
 東レ，
 トヨタ紡織，
 日本IBM，
+インターネットイニシアティブ，
 日本テレコム，
 野村総合研究所，
 VISAカード，
 日立製作所，
+フューチャーアーキテクト，
 三菱電機，
 日永インターナショナル，
 KOEI，
@@ -108,6 +134,7 @@ INAX，
 中部国際空港，
 ネットパーク２１，
 野村證券，
+資生堂，
 インテック，
 日テレアックスオン，
 日本メナード化粧品，

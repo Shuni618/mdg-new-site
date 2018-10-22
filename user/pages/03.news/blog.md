@@ -1,10 +1,10 @@
 ---
-title: News
+title: 'News / ニュース記事'
 media_order: IMG_5079.JPG
 published: true
-date: '14-10-2018 15:57'
-publish_date: '14-10-2018 15:57'
-unpublish_date: '14-10-2018 15:57'
+date: '2018-10-14 15:57'
+publish_date: '2018-10-14 15:57'
+unpublish_date: '2018-10-14 15:57'
 menu: News
 admin:
     children_display_order: collection

@@ -1,5 +1,5 @@
 ---
-title: Members
+title: 'Members / メンバー'
 menu: Members
 body_classes: 'title-center title-h1h2'
 admin:

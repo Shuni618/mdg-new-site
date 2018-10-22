@@ -1,5 +1,5 @@
 ---
-title: 'Graduation Thesis'
+title: 'Graduation Thesis / 卒業論文'
 ---
 
 ## 2017

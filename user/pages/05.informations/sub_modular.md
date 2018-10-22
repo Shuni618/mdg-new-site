@@ -1,5 +1,5 @@
 ---
-title: Informations
+title: 'Informations / 情報'
 body_classes: 'title-center title-h1h2'
 menu: Informations
 admin:

@@ -1,5 +1,5 @@
 ---
-title: 'Master''s Thesis'
+title: 'Master''s Thesis / 修士論文'
 ---
 
 ## 2017

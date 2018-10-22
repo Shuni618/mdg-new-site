@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 'Contact / 連絡先'
 menu: Contact
 ---
 

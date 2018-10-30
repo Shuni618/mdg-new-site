@@ -23,7 +23,7 @@ members:
         name: 'Satoko TAKASHIMA / 高嶋恵子'
         position: 'Master''s Course / 博士前期課程'
     -
-        name: 'Shinya MIYAGAWA / 宮川信也'
+        name: 'Shinya MIYAGAWA / 宮川慎也'
         position: 'Master''s Course / 博士前期課程'
     -
         name: 'Kensho TAKI / 滝顕匠'

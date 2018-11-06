@@ -5,29 +5,30 @@ title: 'Life / 研究生活'
 ## Schedule / 年間スケジュール
 | | |
 |:--:|:--:|
-| **Apl / 4月** | 入学式 |
-| | 新M2, 新D2中間審査会 |
-| **5月** | |
+| **Apr / 4月** | Entrance Ceremony / 入学式 |
+| | MC,DC First-Year Poster Session / 新M2, 新D2中間審査会 |
+| | Welcome Party / M1歓迎会|
+| **May / 5月** | |
 | | |
-| **6月** | |
+| **Jun / 6月** | |
 | | |
-| **7月** | |
+| **Jul / 7月** | |
 | | |
-| **8月** | |
+| **Aug / 8月** | |
 | | |
-| **9月** | |
+| **Sep / 9月** | |
 | | |
-| **10月** | B3配属 |
-| | Wellcome Party / B3歓迎会 |
-| **11月** | |
+| **Oct / 10月** | B3 students join the lab / B3配属 |
+| | Welcome Party / B3歓迎会 |
+| **Nov / 11月** | |
 | | |
-| **12月** | 忘年会 |
+| **Dec / 12月** | Year-end Party / 忘年会 |
 | | |
-| **1月** | |
+| **Jan / 1月** | |
 | | |
-| **2月** | 卒論発表•修論審査 |
+| **Feb / 2月** | Presentation of Graduation Theses 卒論発表•修論審査 |
 | | |
-| **3月** | 卒業•修了式 |
+| **Mar / 3月** | Graduation Ceremony / 卒業•修了式 |
 
 ---
 

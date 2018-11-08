@@ -231,7 +231,7 @@ members:
         name: 岩崎智弘
         position: 2010年度卒
     -
-        name: アルスレイス・ヤコブ・サルマン・モハメド
+        name: 'Yacoub Al-Slaise'
         position: 2010年度卒
     -
         name: 滋賀光太郎

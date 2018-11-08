@@ -1,3 +1,6 @@
+# 動作環境
+php + webサーバ(ローカルでやる場合MAMPでOK)
+
 # QuickStart
 
 1. 本体のインストール

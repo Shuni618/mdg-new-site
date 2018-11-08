@@ -1,0 +1,6 @@
+enabled: true
+limit: 100
+description: 'My Feed Description'
+lang: ja
+length: 500
+enable_json_feed: true

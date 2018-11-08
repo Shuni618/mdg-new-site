@@ -11,6 +11,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: master
     form:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
@@ -51,6 +55,10 @@ links:
     error:
         url: grav-plugin-error
         path: user/plugins/error
+        scm: github
+    feed:
+        url: grav-plugin-feed
+        path: user/plugins/feed
         scm: github
     form:
         url: grav-plugin-form

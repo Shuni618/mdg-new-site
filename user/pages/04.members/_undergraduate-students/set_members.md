@@ -38,5 +38,9 @@ members:
     -
         name: 'Hiroka HITSUISHI / 櫃石祥歌'
         position: 'Undergraduate / 学部生'
+    -
+        name: 'Atsuya ODA / 小田敦也'
+        position: 'Undergraduate / 学部生'
+   
 ---
 

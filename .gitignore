@@ -6,6 +6,9 @@ vendor/*
 # Sass
 .sass-cache
 
+# webstorm
+idea/*
+
 # Grav Specific
 backup/*
 !backup/.*

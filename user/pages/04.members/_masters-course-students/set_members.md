@@ -29,9 +29,10 @@ members:
         name: 'Kensho TAKI / 滝顕匠'
         position: 'Master''s Course / 博士前期課程'
     -
-        name: '屠芸豪'
+        name: 屠芸豪
         position: 'Master''s Course / 博士前期課程'
-        
+    -
+        name: 辺明秀
+        position: 'Master''s Course / 博士前期課程'
 ---
-
 
